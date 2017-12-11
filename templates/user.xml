@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="bp" value="binding.pry" description="binding.pry" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="HAML" value="true" />
+      <option name="Slim" value="true" />
+    </context>
+  </template>
+</templateSet>
