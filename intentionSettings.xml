@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Ruby/Convert ':' to '=&gt;'" />
+    <ignoreAction name="Ruby/Convert all ':' to '=&gt;'" />
+  </component>
+</application>
