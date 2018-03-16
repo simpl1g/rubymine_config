@@ -8592,6 +8592,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/paperclip-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.0, Remote: ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parallel-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parallel-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.2.3.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.2.3.0/bin" />
@@ -8640,6 +8648,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parser-2.4.0.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parser-2.4.0.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.2, Remote: ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parser-2.4.0.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/parser-2.4.0.2/bin" />
       </SOURCES>
     </library>
     <library name="parser-2.3.1.4 (v2.3.1.4, RVM: ruby-2.3.1) [gem]">
@@ -12324,6 +12342,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.48.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.48.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.48.1/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.52.0, Remote: ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/config" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/config" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rubocop-0.52.0/assets" />
       </SOURCES>
     </library>
     <library name="rubocop-0.43.0 (v0.43.0, RVM: ruby-2.3.1) [gem]">
