@@ -3,6 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="job" type="PLAIN_TEXT" />
+      <mapping pattern="schedule" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="upstart" type="PLAIN_TEXT" />
