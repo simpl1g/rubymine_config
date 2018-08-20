@@ -162,6 +162,7 @@
     </library>
     <library name="json (v1.7.4, ruby-1.9.3-p194) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.7.4" />
         <root url="file://D:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.7.4/java" />
         <root url="file://D:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.7.4/data" />
         <root url="file://D:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.7.4/lib" />
@@ -171,6 +172,7 @@
         <root url="file://D:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.7.4/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.7.4" />
         <root url="file://D:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.7.4/java" />
         <root url="file://D:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.7.4/data" />
         <root url="file://D:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.7.4/lib" />
