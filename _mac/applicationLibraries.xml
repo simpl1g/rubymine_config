@@ -3212,6 +3212,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/code_analyzer-0.4.7/lib" />
       </SOURCES>
     </library>
+    <library name="code_analyzer (v0.4.8, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/code_analyzer-0.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/code_analyzer-0.4.8/lib" />
+      </SOURCES>
+    </library>
     <library name="codeclimate-engine-rb (v0.4.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/codeclimate-engine-rb-0.4.0/lib" />
@@ -12490,6 +12498,18 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/rails_best_practices-1.18.1/bin" />
       </SOURCES>
     </library>
+    <library name="rails_best_practices (v1.19.3, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rails_best_practices-1.19.3/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rails_best_practices-1.19.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rails_best_practices-1.19.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rails_best_practices-1.19.3/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rails_best_practices-1.19.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rails_best_practices-1.19.3/bin" />
+      </SOURCES>
+    </library>
     <library name="rails_serve_static_assets (v0.0.4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails_serve_static_assets-0.0.4/lib" />
@@ -13632,6 +13652,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/require_all-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="require_all (v2.0.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/require_all-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/require_all-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="responders (v2.1.0, RVM: ruby-2.3.1) [gem]">
