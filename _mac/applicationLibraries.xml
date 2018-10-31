@@ -13806,6 +13806,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rest-client-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="restforce (v3.1.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/restforce-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/restforce-3.1.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/restforce-3.1.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/restforce-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/restforce-3.1.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/restforce-3.1.0/.circleci" />
+      </SOURCES>
+    </library>
     <library name="retriable (v3.1.1, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/retriable-3.1.1/lib" />
