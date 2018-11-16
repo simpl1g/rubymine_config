@@ -1032,6 +1032,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/aerospike-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aerospike (v2.9.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/aerospike-2.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/aerospike-2.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v3.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/airbrake-3.0/generators" />
@@ -1610,6 +1618,16 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.12, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/ext" />
       </SOURCES>
     </library>
     <library name="benchmark-ips (v2.7.2, Remote: ruby-2.4.2-p198) [gem]">
@@ -9480,6 +9498,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.1.0/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.1.0/doclib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.1.0/ext" />
+      </SOURCES>
+    </library>
+    <library name="msgpack (v1.2.4, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/doclib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/doclib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/lib" />
       </SOURCES>
     </library>
     <library name="msgpack (v1.2.4, RVM: ruby-2.5.1) [gem]">
