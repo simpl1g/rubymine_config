@@ -13560,6 +13560,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redis-store-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="redshift-client (v0.3.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redshift-client-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redshift-client-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redshift-client-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/redshift-client-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="reek (v4.6.2, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/reek-4.6.2/features" />
