@@ -6472,6 +6472,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/graphql-1.8.5/lib" />
       </SOURCES>
     </library>
+    <library name="graphql-batch (v0.3.10, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/graphql-batch-0.3.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/graphql-batch-0.3.10/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/graphql-batch-0.3.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/graphql-batch-0.3.10/bin" />
+      </SOURCES>
+    </library>
     <library name="graphql-cache (v0.4.0, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/graphql-cache-0.4.0/gemfiles" />
@@ -11302,6 +11312,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/premailer-1.8.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/premailer-1.8.4/misc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/premailer-1.8.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="promise.rb (v0.7.4, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/promise.rb-0.7.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/promise.rb-0.7.4/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/promise.rb-0.7.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/promise.rb-0.7.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/promise.rb-0.7.4/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/promise.rb-0.7.4/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.1, RVM: ruby-2.3.1) [gem]">
