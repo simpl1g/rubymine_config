@@ -1692,10 +1692,12 @@
     </library>
     <library name="bcrypt (v3.1.12, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bcrypt-3.1.12/ext" />
       </SOURCES>
@@ -9624,12 +9626,14 @@
     </library>
     <library name="msgpack (v1.2.4, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/doclib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/doclib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/msgpack-1.2.4/bench" />
@@ -10378,6 +10382,7 @@
     </library>
     <library name="nokogiri (v1.8.5, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.5/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.5/lib" />
@@ -10386,6 +10391,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.5/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.5/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/nokogiri-1.8.5/lib" />
@@ -18744,6 +18750,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zip-zip-0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="zookeeper (v1.4.11, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/.dotfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/scripts" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/zoomonkey" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/.dotfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/scripts" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/zoomonkey" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/ext" />
       </SOURCES>
     </library>
     <library name="zscheduler (v0.0.6, RVM: ruby-2.5.0) [gem]">
