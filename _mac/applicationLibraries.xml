@@ -18752,8 +18752,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zip-zip-0.3/lib" />
       </SOURCES>
     </library>
+    <library name="zk (v1.9.6, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zk-1.9.6/notes" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zk-1.9.6/.dotfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zk-1.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zk-1.9.6/notes" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zk-1.9.6/.dotfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zk-1.9.6/lib" />
+      </SOURCES>
+    </library>
     <library name="zookeeper (v1.4.11, RVM: ruby-2.5.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/zookeeper/1.4.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/.dotfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/scripts" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/zoomonkey" />
@@ -18762,6 +18775,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/zookeeper/1.4.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/.dotfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/scripts" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/zookeeper-1.4.11/zoomonkey" />
