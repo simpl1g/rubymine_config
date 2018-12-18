@@ -4585,6 +4585,25 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.2.beta11, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/-1748717324/gems/debase-0.2.2.beta11/ext" />
@@ -4595,12 +4614,42 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/-1748717324/gems/debase-0.2.2.beta11/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.3.beta2, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-0.2.3.beta2/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/-1748717324/gems/debase-ruby_core_source-0.10.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/-1748717324/gems/debase-ruby_core_source-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.3, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-ruby_core_source-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/debase-ruby_core_source-0.10.3/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.4.0) [gem]">
@@ -17743,6 +17792,25 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/ruby-debug-ide-0.6.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/ruby-debug-ide-0.6.0/bin" />
       </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta6, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+      </excluded>
     </library>
     <library name="ruby-growl (v4.1, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
