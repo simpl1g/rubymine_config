@@ -440,6 +440,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.0.0/screen" />
       </excluded>
     </library>
+    <library name="active_admin_sidebar (v1.1.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/screen" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/screen" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/active_admin_sidebar-1.1.0/screen" />
+      </excluded>
+    </library>
     <library name="active_interaction (v3.5.2, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -516,6 +540,44 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.1.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.1.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.1.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="activeadmin (v1.4.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activeadmin-1.4.0/.circleci" />
       </excluded>
     </library>
     <library name="activeadmin-searchable_select (v1.0.2, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -6836,6 +6898,50 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-0.16.0/examples" />
       </excluded>
     </library>
+    <library name="flipper-active_record (v0.16.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_record-0.16.0/examples" />
+      </excluded>
+    </library>
+    <library name="flipper-active_support_cache_store (v0.16.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flipper-active_support_cache_store-0.16.0/spec" />
+      </excluded>
+    </library>
     <library name="flipper-redis (v0.16.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -8279,6 +8385,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/has_scope-0.7.1/test" />
       </excluded>
     </library>
+    <library name="has_scope (v0.7.2, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/has_scope-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/has_scope-0.7.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/has_scope-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/has_scope-0.7.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/has_scope-0.7.2/test" />
+      </excluded>
+    </library>
     <library name="hash-deep-merge (v0.1.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -9008,6 +9130,19 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/inherited_resources-1.7.2/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/inherited_resources-1.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="inherited_resources (v1.9.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/inherited_resources-1.9.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/inherited_resources-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/inherited_resources-1.9.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/inherited_resources-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="intercom (v3.5.17, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -15957,6 +16092,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ransack-1.8.4/lib" />
       </SOURCES>
     </library>
+    <library name="ransack (v1.8.9, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ransack-1.8.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ransack-1.8.9/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ransack-1.8.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ransack-1.8.9/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/ransack-1.8.9/spec" />
+      </excluded>
+    </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.2" />
@@ -18783,6 +18934,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/selenium-webdriver-3.6.0/lib" />
       </SOURCES>
+    </library>
+    <library name="sentry-raven (v2.7.4, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/docs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/docs" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/sentry-raven-2.7.4/docs" />
+      </excluded>
     </library>
     <library name="settingslogic (v2.0.9, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
