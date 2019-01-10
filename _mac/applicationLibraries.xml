@@ -6863,6 +6863,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/fission-0.5.0/spec" />
       </excluded>
     </library>
+    <library name="flamegraph (v0.9.5, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/flamegraph-0.9.5/test" />
+      </excluded>
+    </library>
     <library name="flay (v2.9.0, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/flay-2.9.0/bin" />
@@ -20068,6 +20087,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/stackprof/0.2.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/stackprof-0.2.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/stackprof-0.2.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/stackprof-0.2.12/lib" />
@@ -20075,6 +20095,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/stackprof-0.2.12/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/stackprof/0.2.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/stackprof-0.2.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/stackprof-0.2.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/stackprof-0.2.12/lib" />
