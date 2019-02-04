@@ -2772,6 +2772,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bullet-5.6.1/tasks" />
       </excluded>
     </library>
+    <library name="bumbler (v0.4.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bumbler-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bumbler-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bumbler-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bumbler-0.4.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/bumbler-0.4.0/bin" />
+      </excluded>
+    </library>
     <library name="bundler (v1.14.5, Remote: ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/bundler-1.14.5/bin" />
