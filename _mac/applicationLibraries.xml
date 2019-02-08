@@ -24380,6 +24380,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-inotify-0.9.7/lib" />
       </SOURCES>
     </library>
+    <library name="rbtrace (v0.4.11, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rbtrace/0.4.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/tracers" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rbtrace/0.4.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/tracers" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rbtrace-0.4.11/tracers" />
+      </excluded>
+    </library>
     <library name="rbvmomi (v1.11.3, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
