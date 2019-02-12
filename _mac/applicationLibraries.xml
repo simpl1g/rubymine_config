@@ -2041,6 +2041,22 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-1601341905/1599113872/gems/annotate-2.7.1/bin" />
       </excluded>
     </library>
+    <library name="antigate (v0.0.4@8a66b5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/antigate-8a66b511dcb8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/antigate-8a66b511dcb8/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/antigate-8a66b511dcb8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/antigate-8a66b511dcb8/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/antigate-8a66b511dcb8/.git" />
+      </excluded>
+    </library>
     <library name="ar-octopus (v0.9.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
