@@ -19875,6 +19875,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.3.5/pages" />
       </excluded>
     </library>
+    <library name="oj (v3.7.9, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/pages" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/pages" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/oj-3.7.9/pages" />
+      </excluded>
+    </library>
     <library name="omniauth (v1.2.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/omniauth-1.2.2/lib" />
