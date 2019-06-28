@@ -7230,6 +7230,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rack-1.6.11/example" />
       </excluded>
     </library>
+    <library name="rack-cors (v1.0.3, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rack-cors-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rack-cors-1.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rack-cors-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rack-cors-1.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rack-cors-1.0.3/test" />
+      </excluded>
+    </library>
     <library name="rack-protection (v1.5.3, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
