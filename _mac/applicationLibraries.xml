@@ -3311,6 +3311,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="crypt_keeper (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/crypt_keeper-2.0.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="csv (v3.0.4, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
