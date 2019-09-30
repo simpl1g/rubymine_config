@@ -468,6 +468,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/antigate-8a66b511dcb8/.git" />
       </excluded>
     </library>
+    <library name="apollo_upload_server (v2.0.0.beta.3, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/apollo_upload_server-2.0.0.beta.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/apollo_upload_server-2.0.0.beta.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/apollo_upload_server-2.0.0.beta.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/apollo_upload_server-2.0.0.beta.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/apollo_upload_server-2.0.0.beta.3/bin" />
+      </excluded>
+    </library>
     <library name="ar-octopus (v0.9.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4322,6 +4338,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.5/examples" />
       </excluded>
     </library>
+    <library name="eventmachine (v1.2.7, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/eventmachine-1.2.7/examples" />
+      </excluded>
+    </library>
     <library name="excon (v0.58.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4487,6 +4534,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday_middleware-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday_middleware (v0.13.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday_middleware-0.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday_middleware-0.13.1/lib" />
       </SOURCES>
     </library>
     <library name="fastest-csv (v0.0.4, RVM: ruby-2.6.2) [gem]" type="rubylib">
