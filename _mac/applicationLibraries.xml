@@ -6913,6 +6913,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/monetize-1.7.0/spec" />
       </excluded>
     </library>
+    <library name="money (v6.13.4, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/money-6.13.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/money-6.13.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/money-6.13.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/money-6.13.4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/money-6.13.4/config" />
+      </excluded>
+    </library>
     <library name="money (v6.9.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
