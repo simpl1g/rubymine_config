@@ -11378,6 +11378,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/selenium-webdriver-3.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.12.3, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sentry-raven-2.12.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sentry-raven-2.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sentry-raven-2.12.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sentry-raven-2.12.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sentry-raven-2.12.3/exe" />
+      </excluded>
+    </library>
     <library name="sentry-raven (v2.7.4, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
