@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Ruby">
+        <added pattern="Dry::Struct::ClassInterface.attribute(name,type,block)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
