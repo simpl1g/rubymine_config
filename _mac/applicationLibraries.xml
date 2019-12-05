@@ -3647,6 +3647,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/clickhouse-0.1.10/script" />
       </excluded>
     </library>
+    <library name="clickhouse (v0.1.10, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clickhouse-0.1.10/script" />
+      </excluded>
+    </library>
     <library name="client_side_validations (v4.2.12, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7681,6 +7703,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/launchy-2.4.3/tasks" />
       </excluded>
     </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/launchy-2.4.3/tasks" />
+      </excluded>
+    </library>
     <library name="lazy_high_charts (v1.5.8, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8487,6 +8531,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/mustermann-1.0.3/bench" />
       </excluded>
     </library>
+    <library name="mustermann (v1.0.3, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mustermann-1.0.3/bench" />
+      </excluded>
+    </library>
     <library name="net-http-digest_auth (v1.4.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9191,6 +9254,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pond-0.3.0/tasks" />
       </excluded>
     </library>
+    <library name="pond (v0.3.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pond-0.3.0/tasks" />
+      </excluded>
+    </library>
     <library name="power_assert (v0.2.6, RVM: ruby-2.3.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9822,6 +9904,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rack-protection-2.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.7, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rack-protection-2.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rack-protection-2.0.7/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -11874,6 +11967,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sinatra-2.0.5/examples" />
       </excluded>
     </library>
+    <library name="sinatra (v2.0.7, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sinatra-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sinatra-2.0.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sinatra-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sinatra-2.0.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sinatra-2.0.7/examples" />
+      </excluded>
+    </library>
     <library name="slack-notifier (v2.3.2, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12464,6 +12573,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/tilt-1.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/tilt-1.4.1/test" />
+      </excluded>
+    </library>
+    <library name="tilt (v2.0.10, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.10/bin" />
       </excluded>
     </library>
     <library name="tilt (v2.0.9, RVM: ruby-2.6.2) [gem]" type="rubylib">
