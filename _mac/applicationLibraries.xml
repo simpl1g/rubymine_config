@@ -6917,6 +6917,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/httpi-2.4.3/spec" />
       </excluded>
     </library>
+    <library name="hubspot-ruby (v0.8.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/hubspot-ruby-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/hubspot-ruby-0.8.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/hubspot-ruby-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/hubspot-ruby-0.8.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/hubspot-ruby-0.8.1/spec" />
+      </excluded>
+    </library>
     <library name="i18n (v0.8.6, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9139,11 +9155,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/spec" />
