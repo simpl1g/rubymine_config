@@ -411,6 +411,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-nulldb-adapter-0.3.7/gemfiles" />
       </excluded>
     </library>
+    <library name="activerecord-nulldb-adapter (v0.4.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activerecord-nulldb-adapter-0.4.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="activerecord-postgis-adapter (v3.1.5, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
