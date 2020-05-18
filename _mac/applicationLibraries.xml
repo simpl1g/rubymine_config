@@ -13227,6 +13227,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/wkhtmltopdf-binary-0.12.3.1/bin" />
       </excluded>
     </library>
+    <library name="xgb (v0.4.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/xgb-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/xgb-0.4.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/xgb-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/xgb-0.4.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="xml-simple (v1.1.5, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
