@@ -9083,10 +9083,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/numo-narray/0.9.1.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/numo-narray-0.9.1.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/numo-narray-0.9.1.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/numo-narray/0.9.1.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/numo-narray-0.9.1.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/numo-narray-0.9.1.8/lib" />
       </SOURCES>
@@ -11920,10 +11922,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rumale/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rumale-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rumale-0.19.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rumale/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rumale-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rumale-0.19.0/lib" />
       </SOURCES>
