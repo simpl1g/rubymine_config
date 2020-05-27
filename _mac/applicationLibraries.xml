@@ -4171,6 +4171,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.1.6/benchmarks" />
       </excluded>
     </library>
+    <library name="daru (v0.2.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/profile" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/profile" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/profile" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/daru-0.2.2/benchmarks" />
+      </excluded>
+    </library>
     <library name="data_migrate (v3.2.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9244,6 +9272,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/os-1.0.0/autotest" />
       </excluded>
     </library>
+    <library name="packable (v1.3.13, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/packable-1.3.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/packable-1.3.13/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/packable-1.3.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/packable-1.3.13/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/packable-1.3.13/test" />
+      </excluded>
+    </library>
     <library name="paper_trail (v7.1.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12647,6 +12691,40 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sshkit-1.14.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sshkit-1.14.0/examples" />
+      </excluded>
+    </library>
+    <library name="statsample (v2.0.2@830f83, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/po" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/doc_latex" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/po" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/doc_latex" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/po" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/doc_latex" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/statsample-830f83b6fb66/benchmarks" />
       </excluded>
     </library>
     <library name="statsample (v2.1.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
