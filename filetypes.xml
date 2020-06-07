@@ -6,9 +6,9 @@
       <mapping pattern="job" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="schedule" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="upstart" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
