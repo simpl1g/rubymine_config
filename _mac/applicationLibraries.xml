@@ -5752,13 +5752,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.12.1/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.12.1/samples" />
@@ -7209,13 +7207,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http-parser/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/http-parser-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/http-parser-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/http-parser-1.2.1/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http-parser/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/http-parser-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/http-parser-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/http-parser-1.2.1/spec" />
@@ -7664,12 +7660,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
@@ -7913,7 +7907,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/json-2.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/json-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/json-2.3.0/java" />
@@ -7923,7 +7916,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/json-2.3.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/json-2.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/json-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/json-2.3.0/java" />
@@ -9747,13 +9739,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/pg-1.1.4/spec" />
