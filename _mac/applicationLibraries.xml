@@ -5778,6 +5778,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.12.1/samples" />
       </excluded>
     </library>
+    <library name="ffi (v1.13.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.13.1/samples" />
+      </excluded>
+    </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8958,6 +8982,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.15.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/multi_json-1.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/multi_json-1.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.6.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11984,6 +12019,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/config" />
       </excluded>
     </library>
+    <library name="rubocop-performance (v1.6.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-performance-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-performance-1.6.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-performance-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-performance-1.6.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-performance-1.6.1/config" />
+      </excluded>
+    </library>
     <library name="rubocop-rails (v2.0.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12020,6 +12071,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-rails-2.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-rails-2.0.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rspec (v1.41.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-rspec-1.41.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-rspec-1.41.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-rspec-1.41.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-rspec-1.41.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-rspec-1.41.0/config" />
       </excluded>
     </library>
     <library name="ruby-kafka (v0.5.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
