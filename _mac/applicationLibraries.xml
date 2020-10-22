@@ -3964,6 +3964,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="colorize (v0.8.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/colorize-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/colorize-0.8.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/colorize-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/colorize-0.8.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/colorize-0.8.1/test" />
+      </excluded>
+    </library>
     <library name="commonjs (v0.2.7, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
