@@ -5,5 +5,6 @@
         <added pattern="Dry::Struct::ClassInterface.attribute(name,type,block)" />
       </blacklist>
     </blacklists>
+    <option id="sql.show.column.names.in.select" value="true" />
   </component>
 </application>
