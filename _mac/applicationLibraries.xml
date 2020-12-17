@@ -6896,6 +6896,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/globalid-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="gmail (v0.7.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail-0.7.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail-0.7.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail-0.7.1/spec" />
+      </excluded>
+    </library>
+    <library name="gmail_xoauth (v0.4.2, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail_xoauth-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail_xoauth-0.4.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail_xoauth-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail_xoauth-0.4.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/gmail_xoauth-0.4.2/test" />
+      </excluded>
+    </library>
     <library name="google-ads-common (v1.0.2, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7049,6 +7081,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/graphiql-rails-1.7.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/graphiql-rails-1.7.0/config" />
+      </excluded>
+    </library>
+    <library name="graphql (v1.8.18, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/graphql-1.8.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/graphql-1.8.18/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/graphql-1.8.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/graphql-1.8.18/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/graphql-1.8.18/spec" />
       </excluded>
     </library>
     <library name="graphql (v1.8.5, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -9663,6 +9711,30 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oauth2-1.4.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="oj (v3.10.16, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.10.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/pages" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.10.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/pages" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/oj-3.10.16/pages" />
       </excluded>
     </library>
     <library name="oj (v3.10.5, RVM: ruby-2.6.3) [gem]" type="rubylib">
