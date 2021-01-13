@@ -9,6 +9,7 @@
       <mapping ext="upstart" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
     </extensionMap>
   </component>
 </application>
