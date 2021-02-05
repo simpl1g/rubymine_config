@@ -392,6 +392,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-0.28.1/benchmarks" />
       </excluded>
     </library>
+    <library name="activerecord-import (v1.0.7, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/activerecord-import-1.0.7/benchmarks" />
+      </excluded>
+    </library>
     <library name="activerecord-nulldb-adapter (v0.3.7, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -635,6 +657,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aerospike-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="aggregate_root (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aggregate_root-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aggregate_root-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrussh (v1.3.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -758,6 +791,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/arel-9.0.0/lib" />
       </SOURCES>
+    </library>
+    <library name="arkency-command_bus (v0.4.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/arkency-command_bus-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/arkency-command_bus-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/arkency-command_bus-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/arkency-command_bus-0.4.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/arkency-command_bus-0.4.0/bin" />
+      </excluded>
     </library>
     <library name="ast (v2.4.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
@@ -4118,6 +4167,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/concurrent-ruby-1.1.5/ext" />
+      </excluded>
+    </library>
+    <library name="concurrent-ruby (v1.1.8, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/concurrent-ruby-1.1.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/concurrent-ruby-1.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/concurrent-ruby-1.1.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/concurrent-ruby-1.1.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/concurrent-ruby-1.1.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/concurrent-ruby-1.1.8/lib" />
       </excluded>
     </library>
     <library name="connection_pool (v2.2.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -11431,6 +11497,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rails_best_practices-1.19.4/spec" />
       </excluded>
     </library>
+    <library name="rails_event_store (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rails_event_store-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rails_event_store-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails_event_store_active_record (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rails_event_store_active_record-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rails_event_store_active_record-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="railties (v4.2.11.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12471,6 +12559,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rserve-client-0.3.5/benchmark" />
       </excluded>
     </library>
+    <library name="rspec (v3.6.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rspec-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rspec-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.8.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12999,6 +13098,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby2_keywords (v0.0.4, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby2_keywords-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby2_keywords-0.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_dep (v1.5.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13008,6 +13118,44 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_event_store (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_event_store-browser (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-browser-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-browser-2.0.1/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-browser-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-browser-2.0.1/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-browser-2.0.1/public" />
+      </excluded>
+    </library>
+    <library name="ruby_event_store-rspec (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-rspec-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ruby_event_store-rspec-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.6.2) [gem]" type="rubylib">
