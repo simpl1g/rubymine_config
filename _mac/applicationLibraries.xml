@@ -3885,6 +3885,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/chronic-0.10.2/test" />
       </excluded>
     </library>
+    <library name="classy_hash (v1.0.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/classy_hash-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/classy_hash-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="clbustos-rtf (v0.4.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
