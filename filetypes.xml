@@ -10,6 +10,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
   </component>
 </application>
